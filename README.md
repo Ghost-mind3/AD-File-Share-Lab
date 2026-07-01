@@ -212,7 +212,7 @@ La seconde partie du projet sera consacrée à l'évaluation de la sécurité de
 
 Elle comprendra notamment :
 
-- Reconnaissance SMB.
+- Reconnaissance.
 - Énumération Active Directory.
 - Identification des utilisateurs.
 - Identification des groupes.
