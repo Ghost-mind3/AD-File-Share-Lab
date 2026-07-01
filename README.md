@@ -190,18 +190,59 @@ Elle comprendra notamment :
 
 # 📁 Structure du projet
 
+---
+
+# 📁 Structure du projet
+
+Le projet est organisé par étapes afin de suivre le processus complet de mise en œuvre d'un partage sécurisé dans un environnement Active Directory. Chaque dossier contient un `README.md` détaillant les actions réalisées ainsi que les captures d'écran associées.
+
 ```text
 AD-File-Share-Lab/
 │
-├── README.md
+├── 01-Users-Creation/
+│   ├── Images/
+│   └── README.md
 │
-└── images/
-    ├── architecture/
-    ├── active-directory/
-    ├── permissions/
-    ├── verification/
-    └── pentest/
+├── 02-Group-Creation/
+│   ├── Images/
+│   └── README.md
+│
+├── 03-AGDLP-Implementation/
+│   ├── Images/
+│   └── README.md
+│
+├── 04-SMB-Share-Creation/
+│   ├── Images/
+│   └── README.md
+│
+├── 05-Share-and-NTFS-Permissions/
+│   ├── Images/
+│   └── README.md
+│
+├── 06-Permission-Validation/
+│   ├── Images/
+│   └── README.md
+│
+├── 07-Pentest/
+│   ├── Images/
+│   └── README.md
+│
+└── README.md
 ```
+
+### Contenu des différentes étapes
+
+| Étape | Description |
+|--------|-------------|
+| **01 - Users Creation** | Création de l'OU et des comptes utilisateurs. |
+| **02 - Group Creation** | Création des groupes de sécurité (Global Groups et Domain Local Groups). |
+| **03 - AGDLP Implementation** | Intégration des utilisateurs dans les Global Groups puis des Global Groups dans les Domain Local Groups. |
+| **04 - SMB Share Creation** | Création et publication du partage réseau SMB. |
+| **05 - Share and NTFS Permissions** | Configuration des permissions de partage et des permissions NTFS selon le principe du moindre privilège. |
+| **06 - Permission Validation** | Vérification des droits effectifs avec différents comptes utilisateurs. |
+| **07 - Pentest** | Énumération Active Directory, analyse des partages SMB, validation des permissions et analyse SOC. |
+
+---
 
 ---
 
