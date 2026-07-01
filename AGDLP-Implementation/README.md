@@ -73,10 +73,10 @@ Permissions (Étape suivante)
 
 ### Vérification des appartenances aux groupes
 
-![capture d'écran](Images/AGDLP-implent)
-![capture d'écran](Images/AGDLP-implent2)
-![capture d'écran](Images/AGDLP-implent3)
-![capture d'écran](Images/AGDLP-implent4)
+![capture d'écran](Images/AGDLP-implent.png)
+![capture d'écran](Images/AGDLP-implent2.png)
+![capture d'écran](Images/AGDLP-implent3.png)
+![capture d'écran](Images/AGDLP-implent4.png)
 
 ---
 
