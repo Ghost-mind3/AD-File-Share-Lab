@@ -79,7 +79,7 @@ NTFS Permissions
 
 ### Permissions de partage
 
-![Capture d'écran](Images/share-permissions.png)
+![Capture d'écran](Images/ntfs-permissions.png)
 
 ---
 
