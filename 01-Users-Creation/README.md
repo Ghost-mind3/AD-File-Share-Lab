@@ -43,21 +43,10 @@ evilcorp.local
 
 ## 📸 Captures d'écran
 
-### Création de l'OU Compta
-
-> Ajouter la capture d'écran.
-
----
-
-### Création des comptes utilisateurs
-
-> Ajouter la capture d'écran.
-
----
 
 ### Vérification dans Active Directory Users and Computers
 
-> Ajouter la capture d'écran.
+![Logo du projet](Images/User-creation.png)
 
 ---
 
