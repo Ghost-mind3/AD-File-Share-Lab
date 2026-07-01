@@ -65,25 +65,9 @@ GDL_Partages_RW
 GDL_Partages_RO
 ```
 
----
-
-## 📸 Captures d'écran
-
-### Création des Global Groups
-
-> Ajouter la capture d'écran.
-
----
-
-### Création des Domain Local Groups
-
-> Ajouter la capture d'écran.
-
----
-
 ### Vérification dans Active Directory Users and Computers
 
-> Ajouter la capture d'écran.
+![capture d'écran](Images/groups.png)
 
 ---
 
