@@ -4,7 +4,7 @@
 
 Cette étape consiste à vérifier que les permissions configurées lors des étapes précédentes sont correctement appliquées.
 
-Les tests sont réalisés avec différents comptes utilisateurs afin de confirmer que les autorisations sont héritées via le modèle **AGDLP** et qu'aucune permission n'est attribuée directement aux utilisateurs.
+Les tests sont réalisés avec différents comptes utilisateurs afin de confirmer que les autorisations sont héritées via le modèle **AGDLP** et qu'aucune permission n'est attribuée directement aux utilisateurs (bonne pratique).
 
 ---
 
